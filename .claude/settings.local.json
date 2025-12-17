@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(adb:*)",
+      "Bash(emulator:*)",
+      "Bash(npx expo start --android)",
+      "Bash(npx create-expo-app@latest:*)",
+      "Bash(npm install:*)",
+      "Bash(npx expo install:*)",
+      "Bash(taskkill:*)",
+      "Bash(npx expo start:*)",
+      "Bash(timeout:*)",
+      "Bash(pdflatex:*)",
+      "Bash(dir \"C:\\Program Files\\MiKTeX\" /s /b)",
+      "Bash(findstr:*)",
+      "Bash(cmd.exe /c \"dir \"\"C:\\Program Files\\MiKTeX\"\" /s /b 2>nul | findstr /i pdflatex.exe\")",
+      "Bash(powershell.exe -Command \"Get-Command pdflatex -ErrorAction SilentlyContinue | Select-Object -ExpandProperty Source\")",
+      "Bash(cmd.exe /c \"cd /d \"\"C:\\Users\\Mahima Kaushik\\Desktop\\react-native-class\\presentation\"\" && pdflatex ReactNative_Session_Corrected.tex\")",
+      "Bash(powershell.exe -Command \"Get-ChildItem ''C:\\Program Files\\MiKTeX'' -Recurse -Filter ''pdflatex.exe'' -ErrorAction SilentlyContinue | Select-Object -First 1 -ExpandProperty FullName\")",
+      "Bash(\"/c/Users/Mahima Kaushik/AppData/Local/Programs/MiKTeX/miktex/bin/x64/pdflatex.exe\" ReactNative_Session_Corrected.tex)",
+      "Bash(\"/c/Users/Mahima Kaushik/AppData/Local/Programs/MiKTeX/miktex/bin/x64/pdflatex.exe\" -interaction=nonstopmode ReactNative_Session_Corrected.tex)",
+      "Bash(for line in 197 217 225 301 371 379 434)",
+      "Bash(done)"
+    ]
+  }
+}

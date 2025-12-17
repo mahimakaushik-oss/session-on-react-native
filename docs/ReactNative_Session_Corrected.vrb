@@ -1,0 +1,22 @@
+\frametitle{VERSION 2: Adding Tab Navigation}
+\textbf{Evolution:}
+\begin{itemize}
+    \item Keep counter from V1
+    \item Add multiple screens
+    \item Add bottom tab navigation
+    \item Add icons for tabs
+\end{itemize}
+
+\textbf{Install Dependencies:}
+\begin{lstlisting}[language=bash]
+npm install @react-navigation/native @react-navigation/bottom-tabs
+npx expo install react-native-screens react-native-safe-area-context
+\end{lstlisting}
+
+\textbf{Concepts Added:}
+\begin{itemize}
+    \item React Navigation setup
+    \item NavigationContainer
+    \item createBottomTabNavigator
+    \item Screen components
+\end{itemize}

@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{Introduction to React Native}{3}{0}{1}
+\beamer@sectionintoc {2}{What We Do With React Native}{6}{0}{2}
+\beamer@sectionintoc {3}{Development Setup}{7}{0}{3}
+\beamer@sectionintoc {4}{Core Concepts}{9}{0}{4}
+\beamer@sectionintoc {5}{Building Our Progressive App}{12}{0}{5}
+\beamer@sectionintoc {6}{Best Practices}{23}{0}{6}
+\beamer@sectionintoc {7}{Swift Comparison}{25}{0}{7}
+\beamer@sectionintoc {8}{Conclusion}{27}{0}{8}
